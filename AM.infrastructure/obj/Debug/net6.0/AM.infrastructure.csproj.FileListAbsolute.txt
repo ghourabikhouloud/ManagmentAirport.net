@@ -1,0 +1,17 @@
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\bin\Debug\net6.0\AM.infrastructure.deps.json
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\bin\Debug\net6.0\AM.infrastructure.dll
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\bin\Debug\net6.0\AM.infrastructure.pdb
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\obj\Debug\net6.0\AM.infrastructure.csproj.AssemblyReference.cache
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\obj\Debug\net6.0\AM.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\obj\Debug\net6.0\AM.infrastructure.AssemblyInfoInputs.cache
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\obj\Debug\net6.0\AM.infrastructure.AssemblyInfo.cs
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\obj\Debug\net6.0\AM.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\obj\Debug\net6.0\AM.infrastructure.dll
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\obj\Debug\net6.0\refint\AM.infrastructure.dll
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\obj\Debug\net6.0\AM.infrastructure.pdb
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\obj\Debug\net6.0\ref\AM.infrastructure.dll
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\bin\Debug\net6.0\AM.infrastructure.runtimeconfig.json
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\obj\Debug\net6.0\AM.infra.543A69EC.Up2Date
+C:\Users\ghour\Downloads\AirportManagement-24\AirportManagement\AM.infrastructure\obj\Debug\net6.0\AM.infrastructure.genruntimeconfig.cache
